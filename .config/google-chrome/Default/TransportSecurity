@@ -18,10 +18,10 @@
       "sts_observed": 1579033913.295941
    },
    "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
-      "expiry": 1610570201.870771,
+      "expiry": 1610570500.64957,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1579034201.870773
+      "sts_observed": 1579034500.649572
    },
    "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
       "expiry": 1610569909.117931,
@@ -48,10 +48,10 @@
       "sts_observed": 1579034238.462244
    },
    "Ifty0kmGtBkqpzyRNEJ2iccvLpOffAEtEf72UjNCr0U=": {
-      "expiry": 1610570238.706943,
+      "expiry": 1610570464.597249,
       "mode": "force-https",
       "sts_include_subdomains": true,
-      "sts_observed": 1579034238.706947
+      "sts_observed": 1579034464.597252
    },
    "MzjCeHe2HKY9Et6ILCNSdg5DgEaRTxCpyzki1qChJHI=": {
       "expiry": 1589920466.095416,
@@ -62,14 +62,14 @@
    "bVzOnu6xyelN8iVLDSbFjyZVgXrXDyLSokjnq2hdUFs=": {
       "expect_ct": {
          "expect_ct_enforce": false,
-         "expect_ct_expiry": 1581626238.868191,
-         "expect_ct_observed": 1579034238.868191,
+         "expect_ct_expiry": 1581626464.719201,
+         "expect_ct_observed": 1579034464.719201,
          "expect_ct_report_uri": "https://api.github.com/_private/browser/errors"
       },
-      "expiry": 1610570238.868179,
+      "expiry": 1610570464.719188,
       "mode": "force-https",
       "sts_include_subdomains": true,
-      "sts_observed": 1579034238.868183
+      "sts_observed": 1579034464.719192
    },
    "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
       "expiry": 1589920221.29434,
@@ -78,10 +78,10 @@
       "sts_observed": 1579033821.294345
    },
    "kTBZlNzaAygsyUNLLJvF9CS33eqAcPjUb75PGjCOtnM=": {
-      "expiry": 1610570238.769604,
+      "expiry": 1610570464.585082,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1579034238.769607
+      "sts_observed": 1579034464.585084
    },
    "kkB5ib/+M7npcrRR7ZcVsOzujXBba6S9s0C/7USAGao=": {
       "expiry": 1610570238.461628,
